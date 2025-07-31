@@ -1,1 +1,2 @@
-# library-management-system
+College Library Management System project is designed to streamline library operations, featuring two main user panels: Student and Admin. The Student Panel allows students to browse books, view availability, and check their borrowing history. The Admin Panel enables staff members to manage book inventory, issue and return books, track overdue books, and handle fine calculations.
+Technologies Used : HTML, CSS, JavaScript, Java, MySQL, JDBC, Bootstrap.
